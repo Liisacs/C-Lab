@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPassenger xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Passenger>
+    <Baggage name="Bag1" mass="85" />
+    <Baggage name="Bag2" mass="45" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="95" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="12" />
+    <Baggage name="Bag2" mass="59" />
+    <Baggage name="Bag3" mass="82" />
+    <Baggage name="Bag4" mass="19" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="16" />
+    <Baggage name="Bag2" mass="29" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="43" />
+    <Baggage name="Bag2" mass="5" />
+    <Baggage name="Bag3" mass="11" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="2" />
+    <Baggage name="Bag2" mass="49" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="63" />
+    <Baggage name="Bag2" mass="80" />
+    <Baggage name="Bag3" mass="39" />
+    <Baggage name="Bag4" mass="64" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="77" />
+    <Baggage name="Bag2" mass="34" />
+    <Baggage name="Bag3" mass="6" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="60" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="97" />
+    <Baggage name="Bag2" mass="82" />
+    <Baggage name="Bag3" mass="33" />
+    <Baggage name="Bag4" mass="88" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="8" />
+    <Baggage name="Bag2" mass="64" />
+    <Baggage name="Bag3" mass="92" />
+    <Baggage name="Bag4" mass="78" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="74" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="25" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="71" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="7" />
+    <Baggage name="Bag2" mass="24" />
+    <Baggage name="Bag3" mass="66" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="28" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="24" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="17" />
+    <Baggage name="Bag2" mass="95" />
+    <Baggage name="Bag3" mass="37" />
+    <Baggage name="Bag4" mass="99" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="35" />
+    <Baggage name="Bag2" mass="70" />
+    <Baggage name="Bag3" mass="79" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="55" />
+    <Baggage name="Bag2" mass="98" />
+    <Baggage name="Bag3" mass="98" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="72" />
+    <Baggage name="Bag2" mass="34" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="54" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="23" />
+    <Baggage name="Bag2" mass="66" />
+    <Baggage name="Bag3" mass="62" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="52" />
+    <Baggage name="Bag2" mass="31" />
+    <Baggage name="Bag3" mass="88" />
+    <Baggage name="Bag4" mass="6" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="88" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="25" />
+    <Baggage name="Bag2" mass="72" />
+    <Baggage name="Bag3" mass="3" />
+    <Baggage name="Bag4" mass="67" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="18" />
+    <Baggage name="Bag2" mass="87" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="68" />
+    <Baggage name="Bag2" mass="15" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="68" />
+    <Baggage name="Bag2" mass="48" />
+    <Baggage name="Bag3" mass="1" />
+    <Baggage name="Bag4" mass="90" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="8" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="73" />
+    <Baggage name="Bag2" mass="22" />
+    <Baggage name="Bag3" mass="72" />
+    <Baggage name="Bag4" mass="94" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="64" />
+    <Baggage name="Bag2" mass="55" />
+    <Baggage name="Bag3" mass="79" />
+    <Baggage name="Bag4" mass="20" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="54" />
+    <Baggage name="Bag2" mass="82" />
+    <Baggage name="Bag3" mass="44" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="48" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="57" />
+    <Baggage name="Bag2" mass="71" />
+    <Baggage name="Bag3" mass="79" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="95" />
+    <Baggage name="Bag2" mass="37" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="48" />
+    <Baggage name="Bag2" mass="90" />
+    <Baggage name="Bag3" mass="82" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="9" />
+    <Baggage name="Bag2" mass="52" />
+    <Baggage name="Bag3" mass="54" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="96" />
+    <Baggage name="Bag2" mass="73" />
+    <Baggage name="Bag3" mass="24" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="90" />
+    <Baggage name="Bag2" mass="58" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="98" />
+    <Baggage name="Bag2" mass="50" />
+    <Baggage name="Bag3" mass="89" />
+    <Baggage name="Bag4" mass="18" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="98" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="73" />
+    <Baggage name="Bag2" mass="1" />
+    <Baggage name="Bag3" mass="51" />
+    <Baggage name="Bag4" mass="33" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="62" />
+    <Baggage name="Bag2" mass="39" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="66" />
+    <Baggage name="Bag2" mass="83" />
+    <Baggage name="Bag3" mass="50" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="87" />
+    <Baggage name="Bag2" mass="40" />
+    <Baggage name="Bag3" mass="79" />
+    <Baggage name="Bag4" mass="18" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="33" />
+    <Baggage name="Bag2" mass="78" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="98" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="21" />
+    <Baggage name="Bag2" mass="3" />
+    <Baggage name="Bag3" mass="65" />
+    <Baggage name="Bag4" mass="16" />
+  </Passenger>
+  <Passenger>
+    <Baggage name="Bag1" mass="3" />
+    <Baggage name="Bag2" mass="5" />
+  </Passenger>
+</ArrayOfPassenger>
