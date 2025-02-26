@@ -1,0 +1,14 @@
+C:\Users\lisacs\source\repos\Lab 4 C#\Lab 4 C#\bin\Debug\net8.0\Lab 4 C#.exe
+C:\Users\lisacs\source\repos\Lab 4 C#\Lab 4 C#\bin\Debug\net8.0\Lab 4 C#.deps.json
+C:\Users\lisacs\source\repos\Lab 4 C#\Lab 4 C#\bin\Debug\net8.0\Lab 4 C#.runtimeconfig.json
+C:\Users\lisacs\source\repos\Lab 4 C#\Lab 4 C#\bin\Debug\net8.0\Lab 4 C#.dll
+C:\Users\lisacs\source\repos\Lab 4 C#\Lab 4 C#\bin\Debug\net8.0\Lab 4 C#.pdb
+C:\Users\lisacs\source\repos\Lab 4 C#\Lab 4 C#\obj\Debug\net8.0\Lab 4 C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisacs\source\repos\Lab 4 C#\Lab 4 C#\obj\Debug\net8.0\Lab 4 C#.AssemblyInfoInputs.cache
+C:\Users\lisacs\source\repos\Lab 4 C#\Lab 4 C#\obj\Debug\net8.0\Lab 4 C#.AssemblyInfo.cs
+C:\Users\lisacs\source\repos\Lab 4 C#\Lab 4 C#\obj\Debug\net8.0\Lab 4 C#.csproj.CoreCompileInputs.cache
+C:\Users\lisacs\source\repos\Lab 4 C#\Lab 4 C#\obj\Debug\net8.0\Lab 4 C#.dll
+C:\Users\lisacs\source\repos\Lab 4 C#\Lab 4 C#\obj\Debug\net8.0\refint\Lab 4 C#.dll
+C:\Users\lisacs\source\repos\Lab 4 C#\Lab 4 C#\obj\Debug\net8.0\Lab 4 C#.pdb
+C:\Users\lisacs\source\repos\Lab 4 C#\Lab 4 C#\obj\Debug\net8.0\Lab 4 C#.genruntimeconfig.cache
+C:\Users\lisacs\source\repos\Lab 4 C#\Lab 4 C#\obj\Debug\net8.0\ref\Lab 4 C#.dll
